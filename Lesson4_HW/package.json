@@ -1,0 +1,15 @@
+{
+  "name": "lesson4_hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "HW4":"node hw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
